@@ -11,7 +11,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </head>
 <body>
-
+    <h1>Data Posyandu</h1>
     <form action="proses.posyandu.php" method="post">
         <h3>Input Data Posyandu</h3>
         <label for="nama_posyandu">Nama Posyandu</label><br>
@@ -67,5 +67,6 @@
 <?php } ?>
     </tbody>    
     </table>
+    <footer>&copy; 2026 RPL SMKN 1 Pacitan</footer>
 </body>
 </html>
